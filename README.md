@@ -64,4 +64,7 @@ Esta arquitetura proposta oferece uma solução viável para pequenos e-commerce
 
 ---
 
-Desenvolvido por [Danniel de Albuquerque](https://github.com/Danniel30)
+Desenvolvido por: 
+[Danniel de Albuquerque](https://github.com/Danniel30)
+[Thiago Stella Pontes](https://github.com/thiagoStella)
+[Geilson Marcelo Santos Maciel](https://github.com/geilsonm2)
